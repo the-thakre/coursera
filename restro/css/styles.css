@@ -1,0 +1,13 @@
+body
+{
+    font-size: 16px;
+    background-color: #61122f;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+/* Header  */
+#header-nav {
+    background-color: #f6b319;
+    border: 0;
+    border-radius: 0;
+}
