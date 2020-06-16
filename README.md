@@ -1,4 +1,4 @@
 # coursera
 this is a repository for my coursera learnings
 
-## This my project
+## This is my project
